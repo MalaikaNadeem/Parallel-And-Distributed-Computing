@@ -1,0 +1,18 @@
+Output of Sequential:
+Sequential Processing Time: 0.18 seconds
+
+Output of parallel:
+Processing images in parallel
+Workers | Time (s) | Speedup
+-------- | -------- | -------
+1        |     0.19 |   1.00x
+2        |     0.11 |   1.69x
+4        |     0.07 |   2.54x
+8        |     0.06 |   3.24x
+
+Output of Distributed:
+Simulating distributed image processing across 2 nodes
+Node 1 processed 47 images in 0.11s
+Node 2 processed 47 images in 0.12s
+Total distributed time: 0.67s
+Efficiency: 0.27x over sequential
