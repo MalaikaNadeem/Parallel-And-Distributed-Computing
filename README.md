@@ -1,4 +1,11 @@
 # Parallel-And-Distributed-Computing
+
+
+**Submitted to:** Sir Akhzar Nazir  
+**Submitted by:** Malaika Nadeem  
+**Registration No:** SP23-BAI-024  
+
+
 # Performance Comparison: Sequential, Parallel, and Distributed Processing
 
 ## Execution Time
